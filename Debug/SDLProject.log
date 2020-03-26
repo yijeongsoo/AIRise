@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Entity.cpp
+  main.cpp
+D:\Spring 2020\Game Programming\Project 4 - Rise of the AI\main.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SDLProject.vcxproj -> D:\Spring 2020\Game Programming\Project 4 - Rise of the AI\Debug\AIRise.exe
